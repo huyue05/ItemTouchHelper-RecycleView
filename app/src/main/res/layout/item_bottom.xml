@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="32dp">
+
+    <!-- 中间的布局-->
+    <TextView
+        android:text="点击添加更多的栏目"
+        android:textSize="23sp"
+        android:padding="2dp"
+        android:background="#ffffff"
+        android:layout_width="match_parent"
+        android:layout_height="32dp" />
+</LinearLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="32dp"
+    android:orientation="horizontal">
+
+    <!-- 最顶部的布局-->
+    <TextView
+        android:text="拖动排序"
+        android:textSize="23sp"
+        android:padding="2dp"
+        android:background="#ffffff"
+        android:layout_width="0dp"
+        android:layout_height="32dp"
+        android:layout_weight="10"
+        />
+     <TextView
+         android:id="@+id/tv_caozuo"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textColor="#ff0000"
+         android:text="完成"
+         android:textSize="23sp"
+         />
+
+
+</LinearLayout>

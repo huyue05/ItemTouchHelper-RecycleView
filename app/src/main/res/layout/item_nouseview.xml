@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_margin="5dp"
+    android:layout_height="36dp">
+
+    <TextView
+        android:id="@+id/tv_bottom"
+        android:text="国际"
+        android:textSize="25sp"
+        android:textColor="#00ffff"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:background="@drawable/textview"
+        />
+</LinearLayout>
