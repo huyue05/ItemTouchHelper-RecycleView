@@ -1,7 +1,7 @@
 # RecycleItemHelpDemo
 仿写网易新闻客户端，顶部tabs，滑动排序，增加删除
 比传统效果更好。
-### 仿写网易新闻客户端头部tabs选择频道:RecycleView&ItemTouchHelp。
+### 仿写网易新闻客户端头部tabs选择频道:RecycleView&ItemTouchHelp。*
 
 ####友情提示：观看本文，请结合代码看，为了版面的整洁和突出重点，本文没有过多的介绍基础代码。
 
