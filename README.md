@@ -35,7 +35,7 @@
 	}
 这个通过在在适配器写一个标识符，来判断是否需要展示item上的X删除图片。
 RecycleView和适配器的使用不过分介绍，都是一些基础的内容。
-####**2.学会ItemTouchHelp的使用，ItemTouchHelp是为了方便GridView而产生的一个类。**
+**2.学会ItemTouchHelp的使用，ItemTouchHelp是为了方便GridView而产生的一个类。**
 	public class ItemDragHelperCallback extends ItemTouchHelper.Callback {
 
     private final ItemTouchHelperAdapter mAdapter;
